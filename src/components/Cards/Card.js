@@ -1,12 +1,12 @@
 import '../Cards/Card.css'
 
-function Cart() {
+function Card() {
 	
 	return (
 		<div>
-			<h2 className= 'panier'>Panier</h2>
+			<h2 className= 'cart'>Card</h2>
 		</div>
 	)
 }
 
-export default Cart
+export default Card
