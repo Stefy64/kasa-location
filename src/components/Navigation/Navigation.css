@@ -11,6 +11,7 @@
 .navBar-logo {
     width: 147px;
     height: 47px;
+    image-rendering: url("../../assets/images/logored.png");
 }
 
 .navBar-menu{

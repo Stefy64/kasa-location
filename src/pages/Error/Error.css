@@ -1,0 +1,52 @@
+.error-title {
+    margin-top: 180.71px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #ff6060;
+    font-size: 96px; 
+    font-weight: 700;
+    line-height: 136.9px;
+}
+
+.error-text {
+    text-align: center;
+    color: #ff6060;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.67px;
+    margin-top: 0;
+    margin-left: 57px;
+    margin-right: 57px;
+}
+
+.error-link{
+    text-align: center;
+    color: #ff6060;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.96px;
+    margin-bottom: 235px;
+    margin-top: 133px;
+}
+
+
+@media only screen and (min-width: 1024px) {
+    .error-title{
+        font-size: 288px;
+        line-height: 410.69px;
+        margin-bottom: 0;
+        margin-top: 54px;
+    }
+
+    .error-text{
+        font-size: 36px;
+        line-height: 51.34px;
+        margin-top: 0;
+    }
+
+    .error-link{
+        font-size: 18px;
+        line-height: 25.67px;
+        margin-bottom: 159px;
+    }
+}
