@@ -1,0 +1,26 @@
+.banner-about {
+    background-position: center;
+    background-size: cover;
+    border-radius: 25px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../assets/images/banner-about.png");
+    height: 223px;
+}
+
+@media only screen and (min-width: 1440px) {
+        .banner-about {
+                height: 223px;
+        }
+
+}
+
+
+@media (min-width:1024px) and (max-width:1439px) {
+
+        .banner-about {
+                height: 180px;
+        }
+
+
+}
+
+

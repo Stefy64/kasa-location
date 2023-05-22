@@ -1,11 +1,12 @@
 import React from 'react';
-import Banner from '../../components/Banner/Banner';
+import BannerAbout from '../../components/Banner-About/Banner-About';
+import '../About/About.css';
 
 const About = () => {
     return (
-        <div>
-        <Banner />
-        </div>
+        <main className='about-container'>
+        <BannerAbout />
+        </main>
     );
 };
 
